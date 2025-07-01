@@ -1,0 +1,5 @@
+opencv-python
+numpy
+streamlit
+pyqt5
+Pillow
